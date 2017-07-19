@@ -1,0 +1,247 @@
+.cursor{
+    cursor: pointer;
+}
+
+
+body footer {
+    color: #fff;
+    border-bottom: none;
+    background-image: none;
+    background-color: transparent;
+    border: none;
+    background: rgb(197, 13, 18);
+    padding: 40px 0 0;
+}
+
+.social {
+    position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+    right: 0; /* Establecemos la barra en la izquierda */
+    top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+    z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social ul li a {
+        display: inline-block;
+        color:#fff;
+        background: #000;
+        padding: 10px 12px;
+        text-decoration: none;
+        -webkit-transition:all 500ms ease;
+        -o-transition:all 500ms ease;
+        transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+}
+
+.social ul li .icon-facebook {background:#3b5998;} /* Establecemos los colores de cada red social, aprovechando su class */
+.social ul li .icon-twitter {background: #00abf0;}
+.social ul li .icon-googleplus {background: #d95232;}
+.social ul li .icon-pinterest {background: #ae181f;}
+.social ul li .icon-mail {background: #666666;}
+
+.social ul li a:hover {
+    background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+    padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+}
+/*Ajustes banner home*/
+@media (max-width: 420px){
+    .banner .owl-carousel, .banner .owl-carousel .owl-stage-outer, .banner .owl-carousel .owl-stage, .banner .owl-carousel .owl-item, .banner .owl-carousel .item {
+        height: 100%;
+        min-height: initial;
+        height: 30px;
+    }
+}
+
+@media (max-width: 420px){
+    .owl-carousel .owl-item img {
+        height: 100% !important;
+        width: auto;
+        max-width: initial;
+    }
+}
+
+@media (max-width: 420px){
+    .banner {
+        min-height: 300px;
+        max-height: 300px;
+    }
+}
+
+@media(max-width: 420px){
+    body header .logo {
+        height: 75px;
+    }
+}
+
+.vc_custom_noticias{
+    display: table;
+    margin: auto;
+}
+.vc_custom_noticias h2
+{
+    float: left;
+    position: relative;
+    color: #61051d;
+}
+.vc_custom_noticias h2 span
+{
+    position: absolute;
+    width:0;
+    right: 0;
+    background-image: url(../img/Textura.png);
+    border-left: 1px solid  #000000;
+    animation: maquina 7s infinite alternate steps(17);
+}
+@keyframes maquina {
+  from{
+      width: 100%;
+
+  }  to{
+           width:0;
+       }
+}
+
+.ver_noticias{
+    margin-top: 5vh;
+}
+
+.news {
+    margin-top: 10px;
+    background: #fff;
+    position: relative;
+    overflow: hidden;
+    z-index:1;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+
+    border: 1px solid #eaeaea;
+}
+
+.news .img-figure {
+    position: relative;
+}
+
+.news .img-figure img {
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.news:hover .img-figure img {
+    -webkit-transform: scale(1.10);
+    -moz-transform: scale(1.10);
+    -ms-transform: scale(1.10);
+    -o-transform: scale(1.10);
+    transform: scale(1.10);
+}
+
+.news .title {
+    /*padding: 29px 30px;*/
+    padding: 45px 30px;
+    position: absolute;
+    left: 0;
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.news .title h1 {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 19px;
+    /*	color: #3D6AA2;*/
+    text-align: center;
+
+}
+
+.news:hover .title  {
+    margin-top: -90px;
+    background: #fff;
+}
+
+.news  p.description {
+    position: relative;
+    font-weight: normal;
+    line-height: 22px;
+    opacity: 0;
+    text-align: center;
+    padding: 15px 30px 0px 30px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.news:hover p.description  {
+    opacity: 1;
+}
+
+p.more {
+    text-align: center;
+}
+
+.more a {
+    position: relative;
+    font-size: 13px;
+    margin-top: 30px;
+    display: block;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    display: inline-block;
+    color: #28998b;
+}
+
+.more a:after {
+    content: '';
+    width: auto;
+    height: 1px;
+
+    position: absolute;
+    left: 55px;
+    top: 9px;
+
+    background: #28998b;
+
+    vertical-align: middle;
+    margin-left: 10px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+
+.news:hover a:after {
+    width: 30px;
+}
+
+.cat {
+    background: #a0bc9f;
+    color: #fff;
+    text-transform: uppercase;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    z-index: 1;
+    padding: 3px 15px;
+}
