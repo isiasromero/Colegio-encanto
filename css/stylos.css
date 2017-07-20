@@ -727,14 +727,7 @@ main.int.contact {
 	position: relative;
 	margin-bottom: 60px;
 }
-.post .pin {
-	background: url('../img/pin.png') no-repeat center;
-	position: absolute;
-	top: -25px;
-	z-index: 20;
-	height: 60px;
-	width: 100%;
-}
+
 .post .it:before, .post .it:after {
 	content: "";
 	position: absolute;

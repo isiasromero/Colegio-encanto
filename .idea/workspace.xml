@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b881ffd-fe09-4a78-9997-905ee96ad802" name="Default" comment="" />
+    <list default="true" id="8b881ffd-fe09-4a78-9997-905ee96ad802" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/base.min.css" afterPath="$PROJECT_DIR$/css/base.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/owl.carousel.css" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylos.css" afterPath="$PROJECT_DIR$/css/stylos.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +23,90 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="299">
+              <caret line="239" column="41" lean-forward="false" selection-start-line="239" selection-start-column="41" selection-end-line="239" selection-end-column="41" />
+              <folding>
+                <marker date="1500511154315" expanded="false" signature="10202:10277" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="10315:10348" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="10760:10793" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="11007:11022" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="11179:11212" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="11426:11441" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="11636:11669" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="12060:12093" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="12474:12507" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="12874:12907" ph="..." />
+                <marker date="1500511154315" expanded="false" signature="13307:13340" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="260" column="2" lean-forward="true" selection-start-line="260" selection-start-column="2" selection-end-line="260" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/stylos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="319" column="47" lean-forward="false" selection-start-line="319" selection-start-column="43" selection-end-line="319" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="owl.carousel.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/owl.carousel.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="40" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="materialize.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/materialize.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8273">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/base.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5796">
+              <caret line="0" column="37603" lean-forward="false" selection-start-line="0" selection-start-column="37603" selection-end-line="0" selection-end-column="37603" />
               <folding />
             </state>
           </provider>
@@ -60,6 +150,8 @@
       <find>fancybox</find>
       <find>ahorranito</find>
       <find>calendario</find>
+      <find>.png</find>
+      <find>setNavigation();</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,10 +166,15 @@
         <option value="$PROJECT_DIR$/Home _ Gimnasio Femenino_files/femenino.css" />
         <option value="$PROJECT_DIR$/Home _ Gimnasio Femenino_files/style-timeline.css" />
         <option value="$PROJECT_DIR$/Home _ Gimnasio Femenino_files/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Public/index.html" />
         <option value="$PROJECT_DIR$/Public/js/main.js" />
         <option value="$PROJECT_DIR$/Public/index.php" />
+        <option value="$PROJECT_DIR$/css/stylos.css" />
+        <option value="$PROJECT_DIR$/css/base.min.css" />
+        <option value="$PROJECT_DIR$/css/owl.carousel.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -119,6 +216,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="colegio-encanto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colegio-encanto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colegio-encanto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colegio-encanto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colegio-encanto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,12 +353,12 @@
       <updated>1500258847792</updated>
       <workItem from="1500258849480" duration="3078000" />
       <workItem from="1500388712712" duration="18108000" />
-      <workItem from="1500477890833" duration="18514000" />
+      <workItem from="1500477890833" duration="21399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39700000" />
+    <option name="totallyTimeSpent" value="42585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -506,11 +631,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="319" column="47" lean-forward="false" selection-start-line="319" selection-start-column="43" selection-end-line="319" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/materialize.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8273">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5796">
+          <caret line="0" column="37603" lean-forward="false" selection-start-line="0" selection-start-column="37603" selection-end-line="0" selection-end-column="37603" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="40" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="260" column="2" lean-forward="true" selection-start-line="260" selection-start-column="2" selection-end-line="260" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="299">
+          <caret line="239" column="41" lean-forward="false" selection-start-line="239" selection-start-column="41" selection-end-line="239" selection-end-column="41" />
+          <folding>
+            <marker date="1500511154315" expanded="false" signature="10202:10277" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="10315:10348" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="10760:10793" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="11007:11022" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="11179:11212" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="11426:11441" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="11636:11669" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="12060:12093" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="12474:12507" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="12874:12907" ph="..." />
+            <marker date="1500511154315" expanded="false" signature="13307:13340" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
