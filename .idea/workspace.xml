@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b881ffd-fe09-4a78-9997-905ee96ad802" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/css/base.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/css/materialize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/css/stylos.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/img/Textura.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/img/banner-web.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/img/control.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/img/logoi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/img/logoi1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/img/next.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/jquery-1.11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/materialize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/wow.min.js" afterPath="" />
-    </list>
+    <list default="true" id="8b881ffd-fe09-4a78-9997-905ee96ad802" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -249,12 +228,12 @@
       <updated>1500258847792</updated>
       <workItem from="1500258849480" duration="3078000" />
       <workItem from="1500388712712" duration="18108000" />
-      <workItem from="1500477890833" duration="18194000" />
+      <workItem from="1500477890833" duration="18514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39380000" />
+    <option name="totallyTimeSpent" value="39700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -295,7 +274,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -343,7 +324,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -475,14 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Home _ Gimnasio Femenino_files/main.js.descarga">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -527,6 +502,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
